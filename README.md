@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="LuynoxRD Banner" width="100%" height="auto" style="object-fit: cover; border-radius: 10px;">
   
-  ## Data & Mining Analyst | Nuxt & Vue Specialist
+  ## Big Data Analyst | Nuxt & Vue Specialist
   
   *""The true sign of intelligence is not knowledge but imagination." — Albert Einstein"*
 </div>
@@ -32,7 +32,7 @@ Combining management, data analysis, and technology to build high-impact solutio
 
 - ⛏️ 📊 **Big Data Analyst at Perilya Limited**
 - 🚀 **Open Source Developer** & Content Creator
-- 💚 **Full Stack Developer** specializing in [Nuxt](https://nuxt.com) and [Vue.js](https://vuejs.org)
+- 💚 **Front End Developer** specializing in [Nuxt](https://nuxt.com) and [Vue.js](https://vuejs.org)
 - 🎨 **UI/UX Designer** specializing in Figma, Lottie animations, GSAP, and Three.js
 - 🤝 Official Partner for **Vender IA**, **Amazon**, and **Filmora**
 
