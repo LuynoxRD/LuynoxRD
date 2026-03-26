@@ -16,6 +16,9 @@
   <a href="https://www.tiktok.com/@luynoxrd">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
+  <a href="https://www.facebook.com/luynoxrd">
+    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
   <a href="https://www.youtube.com/@luynoxrd">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
