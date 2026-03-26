@@ -30,7 +30,7 @@
 
 Combining management, data analysis, and technology to build high-impact solutions.
 
-- ⛏️ 📊 **Big Data Analyst at Perilya Limited**
+- 📊 **Big Data Analyst at Perilya Limited**
 - 🚀 **Open Source Developer** & Content Creator
 - 💚 **Front End Developer** specializing in [Nuxt](https://nuxt.com) and [Vue.js](https://vuejs.org)
 - 🎨 **UI/UX Designer** specializing in Figma, Lottie animations, GSAP, and Three.js
