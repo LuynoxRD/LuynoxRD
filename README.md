@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="LuynoxRD Banner" width="100%" height="auto" style="object-fit: cover; border-radius: 10px;">
+  
+  ## Data & Mining Analyst | Nuxt & Vue Specialist
+  
+  *""The true sign of intelligence is not knowledge but imagination." — Albert Einstein"*
+</div>
 
-<!--
-**LuynoxRD/LuynoxRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://luynoxrd.com">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.instagram.com/luynoxrd/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@luynoxrd">
+    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.youtube.com/@luynoxrd">
+    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+Combining management, data analysis, and technology to build high-impact solutions.
+
+- ⛏️ 📊 **Big Data Analyst at Perilya Limited**
+- 🚀 **Open Source Developer** & Content Creator
+- 💚 **Full Stack Developer** specializing in [Nuxt](https://nuxt.com) and [Vue.js](https://vuejs.org)
+- 🎨 **UI/UX Designer** specializing in Figma, Lottie animations, GSAP, and Three.js
+- 🤝 Official Partner for **Vender IA**, **Amazon**, and **Filmora**
+
+<img src="https://u8views.com/api/v1/github/profiles/LuynoxRD/views/day-week-month-total-count.svg" width="0" height="0" />
